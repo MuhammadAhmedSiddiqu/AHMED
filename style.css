@@ -1,0 +1,113 @@
+.logoo{
+    margin-left: 5%;
+}
+.deliv{
+    font-weight: 600;
+}
+.muh{
+    font-weight: 600;
+font-size: 15px;
+color: black;
+}
+.cur{
+    color: black;
+}
+.navimgsixe{
+    width: 15px;
+}
+.seachf{
+    font-size: 15px;
+    border: none;
+}
+
+.seachf:hover{
+    color:white ;
+    background-color: rgb(255, 81, 0) !important;
+}
+.cont:hover{
+    color:white ;
+    background-color: rgb(255, 166, 0) !important;
+}
+.imglc{
+    width: 17px;
+}
+.cont{
+    margin-left: 10px;
+    border: 2px solid rgb(255, 198, 10);
+}
+.sliderrr{
+    width: 100%;
+    height: 500px;
+    background-color: orange;
+    display: flex;
+}
+.YOUST{
+    color: white;
+}
+.left{
+    width: 50%;
+  margin-left: 20px;
+ padding-top: 100px;
+}
+.onewtt{
+    width: 100%;
+    background-color: white;
+    height: 50px;
+    border: 1px solid  gainsboro;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.inppp{
+    width: 80%;
+    background-color: white;
+    border: none    ;
+
+}
+.onewtt{
+    display: flex;
+    justify-content: space-between;
+}
+.inppp::placeholder{
+    width: 80%;
+}
+
+.onewt{
+    width: 100%;
+    background-color: white;
+    height: 50px;
+    border: 1px solid  gainsboro;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+}
+.kara{
+    width: 100%;
+}
+.right{
+    margin-top: auto;
+}
+@media only screen and (max-width:700px){
+.sliderrr{
+    display: flex;
+    flex-direction: column;
+    height: auto;
+}
+.left{
+    width: 90%;
+}
+.fintt{
+    font-size: 10px;
+
+}
+.logoo{
+    margin-left: 0% !important;
+}
+.areebchmmo{
+    flex-direction: column;
+}
+
+}
+
+.areebchmmo{
+    display: flex;
+    margin-top: 10px;
+}
