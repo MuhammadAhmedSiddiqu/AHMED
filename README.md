@@ -1,1 +1,1 @@
-agleeclasspakka.netlify.app
+https://agleeclasspakka.netlify.app/
